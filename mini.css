@@ -6,3 +6,9 @@
 #cb_connect_option {
     background-color: #36393e!important;
 }
+
+
+
+.chat-row:nth-child(even), #chatbox > :nth-child(even) {
+    background-color: #36393e!important;
+}
