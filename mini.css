@@ -1,6 +1,6 @@
 @import url('https://fonts.cdnfonts.com/css/neo-sans-arabic');
 body{font-family: 'Neo Sans Arabic', sans-serif!important;}
-.chatbox{font-family: 'Neo Sans Arabic', sans-serif!important;}
+.chatbox{font-family: 'Neo Sans Arabic', sans-serif!important;font-weight:600!important;}
 
 #chatbox > p {
     border-bottom: 1px solid #36393e!important;
