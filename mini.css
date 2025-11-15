@@ -1,16 +1,10 @@
-@font-face {
-    font-family: 'Neo Sans Arabic';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Neo Sans Arabic'), url('https://fonts.cdnfonts.com/s/29926/Neo Sans Arabic Regular.woff') format('woff');
-}
-
+@import url('https://fonts.cdnfonts.com/css/neo-sans-arabic');
 body{font-family: 'Neo Sans Arabic', sans-serif!important;}
-
+.chatbox{font-family: 'Neo Sans Arabic', sans-serif!important;}
 
 #chatbox > p {
     border-bottom: 1px solid #36393e!important;
-    font-family: 'Neo Sans Arabic', sans-serif!important;
+    
 }
 
 
